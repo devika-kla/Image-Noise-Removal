@@ -26,4 +26,5 @@ In the frequency domain, you can perform various operations such as filtering to
 
 After processing the image in the frequency domain, you need to convert it back to the spatial domain using the inverse Fourier transform. This brings the image back to its original form but with the desired modifications.
 
-![image](https://github.com/devika-kla/Image-Noise-Removal/assets/69448953/32f14b6a-6045-4389-a44a-d9946b05c465)
+![image](https://github.com/devika-kla/Image-Noise-Removal/assets/69448953/fbb67df7-e8c6-46f4-83af-dd518aa33401)
+
